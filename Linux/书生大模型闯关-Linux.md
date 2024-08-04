@@ -4,9 +4,9 @@
 代码非常简单，如下图：
 <img src="img/code.png" />
 成功运行hello_world.py后如下所示：
-<img src="img/1.png" />
+<img src="img/0.png" />
 在本地成功运行端口映射后如下所示：
-<img src="img/2.png" />
+<img src="img/1.png" />
 最终在网页中成功打开web ui后效果如下：
-<img src="img/3.png" />
+<img src="img/2.png" />
 
