@@ -16,7 +16,7 @@ demo代码如下图：</br>
 启动一个 Streamlit 服务：</br>
 <img src="img/2.png" /></br>
 在本地成功运行端口映射后如下所示：</br>
-<img src="img/3png" /></br>
+<img src="img/3.png" /></br>
 最终在网页中成功打开web ui后效果如下：</br>
 <img src="img/4.png" />
 
