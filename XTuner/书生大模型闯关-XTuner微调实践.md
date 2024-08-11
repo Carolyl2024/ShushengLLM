@@ -14,10 +14,10 @@
 <img src="img/7.png" /></br>
 
 使用 streamlit运行代码：</br>
-<img src="img/6.png" /></br>
+<img src="img/5.png" /></br>
 
 端口映射：</br>
-<img src="img/7.png" /></br>
+<img src="img/6.png" /></br>
 
 微调后结果如下图：</br>
 <img src="img/result.png" /></br>
