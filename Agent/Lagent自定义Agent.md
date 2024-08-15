@@ -5,10 +5,10 @@
 启动LMDeploy api_server如下：</br>
 <img src="img/1.png" /></br>
 
-启动Lagent Web Demo如下：</br>
+本地SSH映射如下：</br>
 <img src="img/2.png" /></br>
 
-本地SSH映射如下：</br>
+启动Lagent Web Demo如下：</br>
 <img src="img/3.png" /></br>
 
 自定义Agent效果如下：</br>
